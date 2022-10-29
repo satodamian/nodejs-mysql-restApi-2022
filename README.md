@@ -21,5 +21,8 @@
 3. Colocar \connect root@localhost
 4. Usar los comandos clasicos de MySQL para la revision de tablas y demas
 
+
+> Enlace: https://nodejs-mysql-restapi-2022-production.up.railway.app/
 > Video de referencia: https://www.youtube.com/watch?v=vvrek8GSq4I&t=286s
+
 
