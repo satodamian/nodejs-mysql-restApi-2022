@@ -16,4 +16,4 @@ INSERT INTO employees
     VALUES (1, 'Karen', 1000),
      (2, 'Daniel', 1000),
      (3, 'Jose', 1000),
-     (4, 'Eliana', 1000),
+     (4, 'Eliana', 1000);

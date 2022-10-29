@@ -3,7 +3,7 @@ import { pool } from "../db.js";
 export const getEmployees = async (req, res) => {
   // !Manejados de error
   try {
-    throw new Error("DB error");
+    // throw new Error("DB error");
     const [rows] = await pool.query("SELECT * from employees");
     res.json(rows);
   } catch (error) {
